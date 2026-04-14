@@ -1,0 +1,2 @@
+# newsletter-assets
+hosting newsletters
